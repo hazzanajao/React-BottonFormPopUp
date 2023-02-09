@@ -1,0 +1,73 @@
+.form {
+    width: 25%;
+    padding: 35px;
+    background-color: lightgray;
+    margin: 25px;
+
+}
+
+.btn-add {
+    marginRight: 10px;
+    padding: 5px;
+    float: right;
+    margin: 20px;
+    backgroundColor: dodgerblue;
+    border: hidden;
+    color: white;
+    margin: 25px;
+}
+
+.btn-cancel {
+    marginRight: 10px;
+    padding: 5px;
+    float: right;
+    margin: 20px;
+    background-color: red;
+    border: hidden;
+    color: white;
+}
+
+.close-modal {
+    padding: 5px;
+    background-color: red;
+    border: hidden;
+    margin-top: 10px;
+    color: white;
+    width: 45px;
+    margin: 25px;
+
+}
+
+.modal {
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-bottom:  20px;
+}
+
+
+body.active-modal {
+    overflow-y: hidden;
+}
+
+.btn-modal {
+    padding: 10px ;
+    display: inline-block;
+    margin: 25px;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
